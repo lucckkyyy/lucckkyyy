@@ -77,17 +77,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucckkyyy&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lucckkyyy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucckkyyy&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucckkyyy&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
 
 <p align="center">
   <em>Open to internship opportunities in AI Engineering, ML, Cloud, and Full-Stack Development</em><br>
-  <strong>📬 arajgur@rockets.utoledo.edu</strong>
+  <strong>📬 arajgur@rockets.utoledo.edu</strong><br><br>
+  <a href="https://aryanrajguru.com">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-aryanrajguru.com-blue?style=for-the-badge"/>
+  </a>
 </p>
