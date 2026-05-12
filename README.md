@@ -17,10 +17,10 @@
 
 - 🎓 CS & Engineering Technology student at **University of Toledo**
 - 🤖 Passionate about **Agentic AI**, **LLMOps**, and **Cloud Infrastructure**
-- 🔭 Currently building a **10-project AI/ML portfolio** for internship applications
-- 💼 IT Assistant at UT Medical Center — Active Directory, Intune, Power BI
+- 🔭 Currently building a **10-project AI/ML portfolio** 
+- 💼 IT Assistant at UT Medical Center- Active Directory, Intune, Power BI
 - 🌱 Learning: LangGraph, Kubernetes, Terraform, AWS, GCP
-- ⚡ Fun fact: I build production-grade AI systems and I'm still in undergrad
+- ⚡ Fun fact: I like to workout and I'm fond of playing volleyball!
 
 ---
 
