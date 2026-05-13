@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aryan Rajguru 👋</h1>
+<h1 align="center">Hey there, I'm Aryan Rajguru! 👋</h1>
 
 <p align="center">
   <em>Computer Science & Engineering Technology Student @ University of Toledo</em><br>
