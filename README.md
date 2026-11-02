@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Aryan Rajguru! 👋</h1>
 
 <p align="center">
-  <em>Computer Science & Engineering Technology Student @ University of Toledo</em><br>
+  <em>Computer Science & Engineering Student @ University of Toledo</em><br>
   <em>Building production-grade AI systems | Cloud & DevOps | Full-Stack Development</em>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Engineering student at **University of Toledo**
+- 🎓 Computer Science & Engineering student at the **University of Toledo**
 - 🤖 Passionate about **DevOps**, **Agentic AI Automation** and **Cloud Infrastructure**
 - 🔭 Currently building a **10-project AI/ML portfolio** 
 - 💼 IT Systems and Infrastructure Analyst at UT Medical Center- Active Directory, Intune, Power BI
