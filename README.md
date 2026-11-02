@@ -19,7 +19,7 @@
 - 🤖 Passionate about **DevOps**, **Agentic AI Automation** and **Cloud Infrastructure**
 - 🔭 Currently building a **10-project AI/ML portfolio** 
 - 💼 IT Systems and Infrastructure Analyst at UT Medical Center- Active Directory, Intune, Power BI
-- 🌱 Learning: Docker, Kubernetes, Terraform, AWS, Linux
+- 🌱 Learning: Docker, Kubernetes, Terraform, AWS Services, Linux
 - ⚡ Fun fact: I like to workout and I'm fond of playing volleyball!
 
 ---
